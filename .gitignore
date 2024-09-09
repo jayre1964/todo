@@ -1,3 +1,4 @@
 #don't send these
 env/
 resources/
+.env
